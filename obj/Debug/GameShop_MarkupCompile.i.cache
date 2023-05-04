@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\User\Desktop\GameShop\App.xaml
-11151548125
+249277769
 
-61434861427
+101085639994
 13-1505183044
-MainWindow.xaml;
+Views\NavigateView.xaml;Views\UserAccountView.xaml;
 
 True
 
